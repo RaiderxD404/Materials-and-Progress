@@ -1,4 +1,5 @@
 Changelog de Materials and Progress
+
 0.0.1 - 
 
 Se han agregado los siguientes minerales:
